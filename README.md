@@ -34,7 +34,8 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts and game 
 
 ---
 
-##GamePlay 
+## GamePlay 
+
 -Player starts with health points.
 -Each room gives you choices:
 -Move forward
@@ -47,4 +48,10 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts and game 
 ---
 
 ##🚀 Future Improvements
+
+-Add enemies and battles
+-Add inventory system
+-Add score tracking
+-Add save/load game feature
+-Add GUI version (Java Swing)
 
