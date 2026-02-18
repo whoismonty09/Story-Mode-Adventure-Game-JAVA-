@@ -49,11 +49,11 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts and game 
 
 ##🚀 Future Improvements
 
--Add enemies and battles
--Add inventory system
--Add score tracking
--Add save/load game feature
--Add GUI version (Java Swing)
+- Add enemies and battles
+- Add inventory system
+- Add score tracking
+- Add save/load game feature
+- Add GUI version (Java Swing)
 
 ---
 
