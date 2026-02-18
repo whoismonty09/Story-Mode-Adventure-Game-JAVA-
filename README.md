@@ -55,3 +55,7 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts and game 
 -Add save/load game feature
 -Add GUI version (Java Swing)
 
+---
+
+## 👨‍💻 Author
+Developed by Monty
