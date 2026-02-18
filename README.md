@@ -35,4 +35,16 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts and game 
 ---
 
 ##GamePlay 
-   
+-Player starts with health points.
+-Each room gives you choices:
+-Move forward
+-Fight
+-Escape
+-Search for treasure
+-Wrong decisions reduce health.
+-Correct decisions lead to victory.
+
+---
+
+##🚀
+
